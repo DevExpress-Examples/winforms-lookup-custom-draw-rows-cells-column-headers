@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Lookup - Custom draw dropdown rows, cells, and column headers
+# WinForms Lookup - Custom draw drop-down rows, cells, and column headers
 
 This example demonstrates how to handle the following custom draw event to customize the appearance of rows, cells, and column headers in a lookup dropdown:
 
